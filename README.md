@@ -1,2 +1,1 @@
-# DevSecOps-Project-
-Netflix App Deployment 
+# Amazon-FE
